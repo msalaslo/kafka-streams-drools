@@ -1,4 +1,4 @@
-# Project Title
+# Real Time Rule Engine
 
 A demo combining Kafka Streams and Drools to create a lightweight real-time rules engine.
 
